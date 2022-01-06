@@ -1,5 +1,5 @@
 {
-  "name": "aws-resize-image",
+  "name": "aws-lambda-resize-image",
   "version": "1.0.0",
   "main": "build/index.js",
   "license": "MIT",
