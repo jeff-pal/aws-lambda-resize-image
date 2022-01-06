@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "lib": ["ESNext"],
+    "module": "commonjs",
+    "allowJs": true,
+    "outDir": "./lib",
+    "esModuleInterop": true
+  },
+  "include": ["index.ts", "src"],
+  "exclude": [
+    "**/*.spec.?s",
+    "**/*.test.?s"
+  ]
+}

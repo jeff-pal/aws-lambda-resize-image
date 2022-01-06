@@ -1,0 +1,11 @@
+node_modules
+.glitchdotcom.json
+.node-gyp
+build
+dist
+lib
+npm-debug.log
+.env
+.DS_Store
+yarn.lock
+package-lock.json
